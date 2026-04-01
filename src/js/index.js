@@ -1,3 +1,3 @@
 import "../css/reset.css";
-import "../css/root.css";
+import "../css/global.css";
 console.log("hi")
